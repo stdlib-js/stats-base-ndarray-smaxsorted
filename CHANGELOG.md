@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-08)
+## Unreleased (2026-06-16)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`aabc489`](https://github.com/stdlib-js/stdlib/commit/aabc489951c838ab64c758a705070506d8f00426) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`a110323`](https://github.com/stdlib-js/stdlib/commit/a1103232eb43e13031b24cba6cb1ddbe7ea233d3) - **feat:** add C implementation for `stats/base/ndarray/smaxsorted` [(#10172)](https://github.com/stdlib-js/stdlib/pull/10172) _(by Samarth Kolarkar, Sachin Pangal, stdlib-bot)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Sachin Pangal
 -   Samarth Kolarkar
 
